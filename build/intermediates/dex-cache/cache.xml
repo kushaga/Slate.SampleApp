@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kushagarlall/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/kushagarlall/Desktop/slate-templates-master/Slate.SampleApp/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-526422375a1d6c41282cca94352a5ad29a3bff06.jar" />
+    </item>
+    <item
+        jar="/Users/kushagarlall/Desktop/slate-templates-master/Slate.SampleApp/app/libs/slate.templates.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1c982a05826c32a5726084d48efb34ca88bafc7">
+        <dex dex="/Users/kushagarlall/Desktop/slate-templates-master/Slate.SampleApp/app/build/intermediates/pre-dexed/debug/slate.templates-0a8070af32f81c2654f80e34b3c3a0880e012759.jar" />
+    </item>
+    <item
+        jar="/Users/kushagarlall/Desktop/slate-templates-master/Slate.SampleApp/app/libs/slate.core.common.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="689ba61f70f326769777068ea66971314ea7c0de">
+        <dex dex="/Users/kushagarlall/Desktop/slate-templates-master/Slate.SampleApp/app/build/intermediates/pre-dexed/debug/slate.core.common-c724be95fa6941c9d28ccf19ac13d72b6509a587.jar" />
+    </item>
+
+</items>

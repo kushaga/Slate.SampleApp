@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="slate.templates">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/slate.templates.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
